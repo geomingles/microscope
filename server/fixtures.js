@@ -15,7 +15,7 @@ if (Posts.find().count() === 0) {
 	});
 
 	Posts.insert({
-		title: '|The Code School',
+		title: 'The Code School',
 		url: 'http://thecodeschool.net'
 	});
 }
